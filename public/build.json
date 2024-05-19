@@ -1,0 +1,65 @@
+[
+  {
+    "cover_img": "https://i.ibb.co/Dgj7kmR/Newbie-Watermarked.webp",
+    "course_title": "Introduction to Python",
+    "description": "Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code.",
+    "price": 4000,
+    "course_credit": 3
+  },
+  {
+    "cover_img": "https://i.ibb.co/tq7CscH/html-system-website-concept-1-1600x0.webp",
+    "course_title": "Mastering Data Science",
+    "description": "Data science is the practice of mining large data sets of raw data, both structured and unstructured, to identify patterns and extract actionable insight from them.",
+    "price": 9000,
+    "course_credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/Rbj2KyP/blockchain-8008051-1280-1600x0.webp",
+    "course_title": "Web Development Bootcamp",
+    "description": "This course is designed to build your skills in web development and design, no matter how little experience or technical knowledge you currently have.",
+    "price": 19000,
+    "course_credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/FhS98Bv/fundamentals-of-designing.jpg",
+    "course_title": "Graphic Design Fundamentals",
+    "description": "The New to Graphic Design course will guide you through the fundamentals of the graphic design process.This includes research that needs to be done prior to starting your design.",
+    "price": 7000,
+    "course_credit": 2
+  },
+  {
+    "cover_img": "https://i.ibb.co/JtyYLXG/VFLt5v-HV7a-Co-Lr-LGj-P9-Qwm-1200-80.jpg",
+    "course_title": "Digital Marketing Essentials",
+    "description": "Digital marketing is the process of promoting products and services online with the help of tactics such as social media marketing, affiliate marketing, email marketing, etc.",
+    "price": 8500,
+    "course_credit": 3
+  },
+  {
+    "cover_img": "https://i.ibb.co/N2QPrcg/computeredu.jpg",
+    "course_title": "Project Management Professional (PMP) Certification",
+    "description": "The PMP acknowledges candidates skilled at managing the people, processes, and business priorities of professional projects. ",
+    "price": 19000,
+    "course_credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/j4CC592/Amazing-Things-About-Financial-Analysis-and-Modeling-min-scaled.jpg",
+    "course_title": "Financial Analysis and Modeling",
+    "description": "Financial analysis is typically carried out using ratio and trend analysis of relevant information taken from financial statements and other reports.",
+    "price": 9990,
+    "course_credit": 2
+  },
+  {
+    "cover_img": "https://i.ibb.co/nCXHj62/Artificial-Intelligence-and-machine-learning-comp-scaled-1.webp",
+    "course_title": "Artificial Intelligence and Machine Learning",
+    "description": "Artificial Intelligence is a technique for building systems that mimic human behavior or decision-making.Machine Learning is a subset of AI that uses data to solve tasks.",
+    "price": 4999,
+    "course_credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/qCHwDNC/960x0.jpg",
+    "course_title": "Cybersecurity for Beginners",
+    "description": "Cybersecurity involves everyone and every entity — from you and your neighbors to organizations and companies to governments.",
+    "price": 6999,
+    "course_credit": 3
+  }
+]
