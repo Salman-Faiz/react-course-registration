@@ -1,7 +1,7 @@
 
 import CourseNameList from './../CourseNameList/CourseNameList';
 
-const Course = ({ course }) => {
+const Course = ({ course,handleCourseTitle ,handleAllFunctionalities}) => {
     // console.log(course)
     const { course_credit, course_title, cover_img, description, price } = course;
     return (
@@ -23,7 +23,8 @@ const Course = ({ course }) => {
                 <p>{course_credit} hours</p>
             </div>
           <div className="mx-5 mt-5 mb-3  bg-blue-600 rounded text-center">
-          <button className="py-2 text-center text-3xl ">Submit</button>
+          <button onClick={()=>{handleAllFunctionalities(course)}} className="py-2 text-center text-3xl ">Submit</button>
+         
           </div>
            </div>
         </div>
