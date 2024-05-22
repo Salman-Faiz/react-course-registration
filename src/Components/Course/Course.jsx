@@ -7,11 +7,11 @@ const Course = ({ course,handleCourseTitle ,handleAllFunctionalities}) => {
     return (
         <div className="bg-slate-100 rounded-xl max-h-screen">
             <div className="p-5"><img className="rounded-lg w-full h-40" src={cover_img} alt="" /></div>
-            <div className="px-5  my-2">
+            <div className="px-5  my-1">
                 <h1 className="text-2xl font-semibold ">
                     {course_title}
                 </h1>
-                <p className="py-1">
+                <p className="py-1 h-24">
                     {
                         description
                     }
